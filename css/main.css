@@ -2,6 +2,12 @@ body {
   font-family: 'HelveticaNeue-Thin' !important;
 }
 
+@font-face {
+  font-family: Tossfont;
+  src: url('../fonts/HelveticaNeue.dfont');
+  font-weight: thin;
+}
+
 .slider-img {
   background-image: url("../img/background-4-cropped.jpg");
   -webkit-background-size: cover;
