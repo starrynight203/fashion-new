@@ -16,54 +16,12 @@ body {
   max-height: 650px;
 }
 
-/*.top-nav-row {
-  border-bottom: 1px solid #fff;
-}*/
-
-.top-nav-col-2 {
-  border-right: 1px solid #fff;
-  height: 48px;
-}
-
 .icons {
   height: 48px;
 }
 
 .nav-image img {
   padding: 15px;
-}
-
-.top-nav {
-  list-style: none;
-}
-
-.top-nav li {
-  display: inline-block;
-  color: #fff;
-  font-family: 'HelveticaNeue-Thin';
-  font-size: 10px;
-  padding-top: 15px;
-}
-
-.about-icon a {
-  text-decoration: none;
-  color: #fff;
-  padding-right: 15px;
-}
-
-.contact-icon a {
-  text-decoration: none;
-  color: #fff;
-  padding-right: 15px;
-}
-
-.icons li a {
-  text-decoration: none;
-  color: #fff;
-}
-
-.fb-icon a {
-  padding-right: 15px;
 }
 
 .form-greeting {
