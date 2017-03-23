@@ -1,0 +1,16 @@
+@media(max-width:767px) {
+  .form-greeting {
+      margin-right: -15px;
+      font-size: 38px;
+  }
+  .form-command {
+      font-size: 17px;
+      margin-right: -15px;
+  }
+  input[type=email] {
+      font-size: 20px;
+  }
+  input[type=submit] {
+      font-size: 20px;
+  }
+}
