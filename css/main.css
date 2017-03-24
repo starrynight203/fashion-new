@@ -175,6 +175,11 @@ footer p {
   color: #f8fff4;
 }
 
+.footer-text a:hover {
+  color: #e3eba7;
+  text-decoration: underline;
+}
+
 .footer-logo-img{
   margin: 10px;
 }
