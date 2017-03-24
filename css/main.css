@@ -176,7 +176,7 @@ footer p {
 }
 
 .footer-text a:hover {
-  color: #e3eba7;
+  color: #e3eba7 !important;
   text-decoration: underline;
 }
 
